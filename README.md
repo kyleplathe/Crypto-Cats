@@ -1,1 +1,1 @@
-# Crypto Cats
+# Crypto Cat(egories)
