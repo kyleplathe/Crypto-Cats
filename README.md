@@ -5,6 +5,9 @@
 
 In this assessment we will evaluate the performance among various crypto categories and compare the categories to Bitcoin as a standard.
 
+<a href="https://github.com/kyleplathe/Crypto-Cats/blob/main/Crypto_Cat_Portfolio_final.ipynb">Crypto Cat Portfolio Jupyter Notebook Code</a>
+
+
 ## Getting Started
 
 ### Motivation and Summary
